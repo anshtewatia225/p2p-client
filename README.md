@@ -184,6 +184,3 @@ Uses round-robin distribution:
 
 **Client:**
 - `peer_file_map`: Group ID → Filename → Local File Info (path, size, bit_vector)
-
-## License
-MIT License
